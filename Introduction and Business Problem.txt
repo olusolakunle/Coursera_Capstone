@@ -1,0 +1,8 @@
+Introduction: Business Problem
+
+
+	Founded in 1683, Queens is the one of the lively, vibrant and largest borough in New York. Queens Borough is located on Long Island cross the East River from Manhattan with notable tourist attractions like; Flushing Meadows-Corona Park or the Queens Botanical Garden, the park’s Queens Museum is known for the "Panorama," a building-for-building model of New York City, Nearby Citi Field is the stadium of pro baseball team, the Mets and many more. 
+	Queens is the easternmost of the other five boroughs in New York, is adjacent to the borough of Brooklyn at the southwestern end of Lond Island. Due to her uniqness and beauty, Queens has been unarguably one of New York’s best boroughs for new residents to make their homes and also a scenery tourist destination. Many parts of Queens have a more suburban feel and offer the perfect retreat from the bright lights and bustling streets of nearby Manhattan.
+
+	This project evaluates the neighourhoods in Queens for peole intending to visit; either to start a business or for pleasure. More importantly I try to  highlights peculiarity of the neighbourhoods and opportunities available for intending business owners and pleasure seekers.
+	Over the years, there have been increasing number of people visiting the borough and realizing what a great destination it is. There's history, culture, views, and food without the high prices as seen in other New York borough and this project will make every visit a memorable one.
